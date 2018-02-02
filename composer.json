@@ -1,0 +1,10 @@
+{
+    "name": "vicktor/binance-ticker-scrap",
+    "description": "Scrap Binance Ticker every 1 minute",
+    "type": "project",
+    "require": {
+        "peppeocchi/php-cron-scheduler": "^2.3",
+        "catfan/Medoo": "^1.5",
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
